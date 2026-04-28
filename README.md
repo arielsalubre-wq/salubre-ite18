@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Restaurant POS and Website
 
 ![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/homehomepage.png?raw=true)
@@ -56,3 +57,6 @@
 | Staff | 7 | robertpass |
 | Admin | 99999 | 12345 |
 
+=======
+# salubre-ite18
+>>>>>>> f32098fb9bd0bcf203c9b3b78d96dc302b663ead
